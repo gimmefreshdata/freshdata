@@ -1,5 +1,5 @@
 # freshdata
-This project has been brought to a close.
+This project has been brought to a close and is no longer actively maintained.
 
 The FreshData project was an experiment in biodiversity data integration for the purpose of connecting two kinds of people: biodiversity data producers, such as citizen scientists, natural history museum curators and biologists, AND biodiversity data consumers, such as farmers, land managers, other biologists, and curious biophiles. The premise was to provide data consumers interested in knowing when the next Organism X is detected in Region Y, with alerts that would notify them as soon as new data matching their interest became available. At the same time, any data providers who wanted to know could be advised when their data had been sent to an interested data consumer. Anyone who was interested could also discover which kinds of data were of interest, and, if the data consumer chose to self-identify, who was looking for them.
 
